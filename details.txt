@@ -1,0 +1,110 @@
+
+gmail
+us: faiorafragrance@gmail.com
+ps: shiya@2026
+
+faiorafragrance
+faiorafragrance@gmail.com
+
+recover email
+vijayanand14490@gmail.com
+
+githud opensignup continew with google
+and otp veryfy with 9962140490
+create new repository 
+perfume
+
+https://github.com/faiorafragrance-ctrl/perfume
+
+you get https://github.com/faiorafragrance-ctrl/perfume.git
+
+d drive D:\wamp8_4\www\faiorafragrance 
+cmd 
+															D:\wamp8_4\www\faiorafragrance>echo "# perfume" >> README.md
+															D:\wamp8_4\www\faiorafragrance>echo "# perfume" >> README.md
+															D:\wamp8_4\www\faiorafragrance>git init
+															Initialized empty Git repository in D:/wamp8_4/www/faiorafragrance/.git/
+
+															D:\wamp8_4\www\faiorafragrance>git add README.md
+															D:\wamp8_4\www\faiorafragrance>git commit -m "first commit"
+															D:\wamp8_4\www\faiorafragrance>git branch -M main
+															D:\wamp8_4\www\faiorafragrance>git remote add origin https://github.com/faiorafragrance-ctrl/perfume.git
+															D:\wamp8_4\www\faiorafragrance>git push -u origin main
+												
+															D:\wamp8_4\www\faiorafragrance>git add .
+															warning: in the working copy of 'css/style.css', LF will be replaced by CRLF the next time Git touches it
+															warning: in the working copy of 'js/style.js', LF will be replaced by CRLF the next time Git touches it
+
+															D:\wamp8_4\www\faiorafragrance>git add .
+															D:\wamp8_4\www\faiorafragrance>git commit -m "first commit2"
+														
+ 
+ 
+ 
+
+
+
+
+GitHub Repository Settings
+Step 3: Repository owner ആയ krishnakumar-cmyk ചെയ്യേണ്ടത്:
+1. GitHub → perfume repository തുറക്കുക.
+Add collaborators to this repository
+Add people
+2. Settings → Collaborators / Manage access തുറക്കുക.
+3. Add people ക്ലിക്ക് ചെയ്യുക.
+4. Vijay-Anand-A എന്ന് search ചെയ്യുക.
+5. Invite ചെയ്യുക.
+
+Vijay-Anand-A
+Step 2: ഈ link തുറക്കുക:
+https://github.com/settings/organizations?utm_source=chatgpt.com
+Check Repository Invitations
+Step 3: ഈ link കൂടി തുറന്ന് നോക്കുക:
+GitHub Organizations
+Accept cheyyuka
+
+
+													D:\wamp8_4\www\faiorafragrance>git add .
+
+													D:\wamp8_4\www\faiorafragrance>git commit -m "first commit"
+													[main 5aa324e] first commit
+													 1 file changed, 103 insertions(+)
+													 create mode 100644 details.txt
+
+													D:\wamp8_4\www\faiorafragrance>git push -u origin main
+													Enumerating objects: 24, done.
+													Counting objects: 100% (24/24), done.
+													Delta compression using up to 8 threads
+													Compressing objects: 100% (20/20), done.
+													Writing objects: 100% (24/24), 15.02 MiB | 5.06 MiB/s, done.
+													Total 24 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+													remote: Resolving deltas: 100% (1/1), done.
+													To https://github.com/faiorafragrance-ctrl/perfume.git
+													 * [new branch]      main -> main
+													branch 'main' set up to track 'origin/main'.
+
+													:\wamp8_4\www\faiorafragrance>
+
+								https://vercel.com/ open
+								signup
+								continue with github
+								mob : 9962140490
+								login with github https://github.com/faiorafragrance-ctrl
+								create New+ project kodukkuga
+								select repository
+								import git path
+								Deploy 
+								continuew
+								
+								https://perfume-two-silk.vercel.app/
+
+								githubil file itta shesham any update 
+														D:\wamp8_4\www\faiorafragrance>git add .
+														D:\wamp8_4\www\faiorafragrance>git commit -m "first commit2"
+														D:\wamp8_4\www\faiorafragrance>git push -u origin main
+											
+
+								if you check go to domain
+
+
+https://perfume-two-silk.vercel.app/
